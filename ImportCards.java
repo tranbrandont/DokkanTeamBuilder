@@ -60,14 +60,14 @@ public class ImportCards {
             //if card not found change card id by one to check for differences
             //between database and website
             catch (FileNotFoundException e) {
-                System.out.println(cardName + " not found");
-                cardName = cardName.substring(0, cardName.length() - 1) + "1";
-
-                URL url = new URL("https://dbz.space/cards/" + cardName);
-                URLConnection con = url.openConnection();
-                InputStream is = con.getInputStream();
-                BufferedReader br = new BufferedReader(new InputStreamReader(is));
                 try {
+                    System.out.println(cardName + " not found");
+                    cardName = cardName.substring(0, cardName.length() - 1) + "1";
+
+                    URL url = new URL("https://dbz.space/cards/" + cardName);
+                    URLConnection con = url.openConnection();
+                    InputStream is = con.getInputStream();
+                    BufferedReader br = new BufferedReader(new InputStreamReader(is));
                     while ((line = br.readLine()) != null) {
                         if (line.contains("<h2>")) {
                             line = line.trim();
@@ -85,7 +85,7 @@ public class ImportCards {
                     fileIndex++;
                 }
 
-                catch (FileNotFoundException e) {
+                catch (FileNotFoundException ex) {
                     fileIndex++;
                 }
             }
