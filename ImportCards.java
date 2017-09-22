@@ -11,14 +11,21 @@ import java.io.FileWriter;
 import java.io.FileNotFoundException;
 
 
+
+
 public class ImportCards {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
         String line = null;
         String cardName = null;
+        String path;
         int fileIndex = 0;
-
-        String myDirectory = "F:\\Users\\B-trey\\Desktop\\shared folder droid\\assets\\assets\\character\\card";
+        int running = 0;
+        running = FileChooserDemo.main(args);
+        while (running == 0) {
+           Thread.sleep(1000);
+        }
+        String myDirectory = FileChooserDemo.getPath();
         File dir = new File(myDirectory);
         int numFiles = dir.listFiles().length;
         File[] directoryListing = dir.listFiles();
