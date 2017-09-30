@@ -21,11 +21,12 @@ public class ImportCards {
         String path;
         int fileIndex = 0;
         int running = 0;
-        running = FileChooserDemo.main(args);
+        running = FileChooser.main(args);
+        //waits for FileChooser to finish
         while (running == 0) {
            Thread.sleep(1000);
         }
-        String myDirectory = FileChooserDemo.getPath();
+        String myDirectory = FileChooser.getPath();
         File dir = new File(myDirectory);
         int numFiles = dir.listFiles().length;
         File[] directoryListing = dir.listFiles();
@@ -38,6 +39,7 @@ public class ImportCards {
                     for (; fileIndex < numFiles; fileIndex ++) {
                         cardName = directoryListing[fileIndex].getName();
                         cardName = cardName.substring(0, cardName.length() - 4);
+                        // uses dbz.space to access card information
                         URL url = new URL("https://dbz.space/cards/" + cardName);
 
                         URLConnection con = url.openConnection();

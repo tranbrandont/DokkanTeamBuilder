@@ -8,7 +8,7 @@ import javax.swing.SwingUtilities;
 import javax.swing.filechooser.*;
 
 
-public class FileChooserDemo extends JPanel
+public class FileChooser extends JPanel
                              implements ActionListener {
     static private final String newline = "\n";
     JButton openButton;
@@ -31,10 +31,6 @@ public class FileChooserDemo extends JPanel
         fc = new JFileChooser();
 
         fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
-        //fc.setFileSelectionMode(JFileChooser.FILES_AND_DIRECTORIES);
-
-        //Create the open button.  We use the image from the JLF
-        //Graphics Repository (but we extracted it from the jar).
         openButton = new JButton("Open a File...");
         openButton.addActionListener(this);
 
@@ -76,11 +72,9 @@ public class FileChooserDemo extends JPanel
         }
     }
 
-    /**
-     * Create the GUI and show it.  For thread safety,
-     * this method should be invoked from the
-     * event dispatch thread.
-     */
+
+     // Create the GUI and show it.
+
     private static void createAndShowGUI() {
         //Create and set up the window.
         JFrame frame = new JFrame("FileChooserDemo");
@@ -99,7 +93,7 @@ public class FileChooserDemo extends JPanel
         while (running == 0) {
             Thread.sleep(1000);
         }
-        return running;
+        return running; //waits until file is chosen before continuing program
 
     }
 
