@@ -17,7 +17,7 @@ public class FileChooser extends JPanel
     private static String filepath;
     private static int running = 0;
 
-    public FileChooserDemo() {
+    public FileChooser() {
         super(new BorderLayout());
 
         //Create the log first, because the action listeners
@@ -31,7 +31,7 @@ public class FileChooser extends JPanel
         fc = new JFileChooser();
 
         fc.setFileSelectionMode(JFileChooser.DIRECTORIES_ONLY);
-        openButton = new JButton("Open a File...");
+        openButton = new JButton("Choose the directory where cards listed");
         openButton.addActionListener(this);
 
         //For layout purposes, put the buttons in a separate panel
@@ -46,7 +46,7 @@ public class FileChooser extends JPanel
     public void actionPerformed(ActionEvent e) {
 
         //Handle open button action.
-        int returnVal = fc.showOpenDialog(FileChooserDemo.this);
+        int returnVal = fc.showOpenDialog(FileChooser.this);
 
         if (returnVal == JFileChooser.APPROVE_OPTION) {
             File file = fc.getSelectedFile();
@@ -63,7 +63,7 @@ public class FileChooser extends JPanel
 
     /** Returns an ImageIcon, or null if the path was invalid. */
     protected static ImageIcon createImageIcon(String path) {
-        java.net.URL imgURL = FileChooserDemo.class.getResource(path);
+        java.net.URL imgURL = FileChooser.class.getResource(path);
         if (imgURL != null) {
             return new ImageIcon(imgURL);
         } else {
@@ -77,11 +77,11 @@ public class FileChooser extends JPanel
 
     private static void createAndShowGUI() {
         //Create and set up the window.
-        JFrame frame = new JFrame("FileChooserDemo");
+        JFrame frame = new JFrame("FileChooser");
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
         //Add content to the window.
-        frame.add(new FileChooserDemo());
+        frame.add(new FileChooser());
 
         //Display the window.
         frame.pack();
