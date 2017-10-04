@@ -1,0 +1,2382 @@
+>Supreme Warrior Awakened - Super Saiyan Goku
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Kamehameha - ATK +2500 when Super Attack is launched
+>The Saiyan Among Us - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Best Buddies - Ki +1
+>Genius of War - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+>Emperor of Iniquity - Frieza (1st Form)
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+Frieza's Army - DEF +1000
+Metamorphosis - Recover 5% HP
+Universe's Most Malevolent - ATK +15%
+>Despair's Onslaught - Frieza (1st Form)
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+Frieza's Army - DEF +1000
+Metamorphosis - Recover 5% HP
+Universe's Most Malevolent - ATK +15%
+>Android Evolution - Cell (1st Form)
+Flee - Ki +1 when HP is 30% or below
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Kamehameha - ATK +2500 when Super Attack is launched
+Attack of the Clones - Ki +1
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Time-traversing Evil - Cell (1st Form)
+Flee - Ki +1 when HP is 30% or below
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Kamehameha - ATK +2500 when Super Attack is launched
+Attack of the Clones - Ki +1
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Unrelenting Fighter - Gohan (Kid)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+Berserker - ATK +20% when HP is 50% or below
+>Fruits of Labor - Krillin
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Best Buddies - Ki +1
+>Stern Teacher - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Experienced Fighters - ATK +10%
+Namekians - Recover 5% HP
+Brainiacs - ATK & DEF +10%
+>Aura Unleashed - Tien
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Cold Judgment - DEF +20%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>The Gifted One - Chiaotzu
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Telekinesis - Enemy DEF -10%
+Dodon Ray - ATK +2000 when Super Attack is launched
+>Secret Arts Unleashed - Yamcha
+Z Fighters - ATK +15%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Turtle School - ATK +500, DEF+500
+Speedy Retribution - ATK +300
+>Peerless Saiyan - Raditz
+The Saiyan Lineage - Ki +1
+Saiyan Warrior Race - ATK +700
+Coward - Ki +1
+>Elite Warrior's Rage - Nappa
+Saiyan Warrior Race - ATK +700
+New - ATK +200
+Tough as Nails - DEF +1500
+Berserker - ATK +20% when HP is 50% or below
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Hidden Strength - Zarbon
+Metamorphosis - Recover 5% HP
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+>Honorable Fighter - Captain Ginyu
+The Ginyu Force - ATK + 25%
+Gentleman - Ki +2
+Respect - ATK +500
+Loyalty - Ki +1
+Signature Pose - Ki +2
+>Calculated Combat - Android #19
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Loyalty - Ki +1
+Energy Absorption - Ki +2
+>Red Ribbon Army's Grudge - Dr. Gero
+Android Assault - DEF +1000
+RR Army - ATK +300
+Brainiacs - ATK & DEF +10%
+Flee - Ki +1 when HP is 30% or below
+Thirst for Conquest - ATK +15%
+Scientist - Ki +2
+Energy Absorption - Ki +2
+>Infinite Fighting Spirit - Android #17
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Soul vs Soul - Weakens Regeneration and Ki +1
+Infinite Energy - Ki +2
+>Alluring Assassin - Android #18
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+Soul vs Soul - Weakens Regeneration and Ki +1
+Infinite Energy - Ki +2
+>Power Unleashed - Android #16
+Android Assault - DEF +1000
+Mechanical Menaces - Ki +1
+Gentleman - Ki +2
+>Secrets of the Turtle Style - Master Roshi
+Infighter - ATK +10%, attacked enemy's DEF -10%
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Warrior - Ki +1
+The Students - DEF +1000
+>Unrivaled Assassin - Mercenary Tao
+Crane School - ATK +500
+Supreme Warrior - Ki +1
+Brutal Beatdown - ATK +10%
+Coward - Ki +1
+The Incredible Adventure - Ki +2
+>Steely Determination - Gohan (Kid)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+Berserker - ATK +20% when HP is 50% or below
+Demon - Ki +1
+>From Hell and Back - Trunks (Teen)
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Z Fighters - ATK +15%
+>Competitive Comrades - Krillin
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Best Buddies - Ki +1
+>Aloof Warrior - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Demon - Ki +1
+Namekians - Recover 5% HP
+Attack of the Clones - Ki +1
+>Trickster - Chiaotzu
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Telekinesis - Enemy DEF -10%
+Courage - Ki +1
+>The One and Only - Yamcha
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Speedy Retribution - ATK +300
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Menacing Alien Warrior - Raditz
+The Saiyan Lineage - Ki +1
+Saiyan Warrior Race - ATK +700
+Coward - Ki +1
+>Devastating Destruction - Nappa
+Saiyan Warrior Race - ATK +700
+New - ATK +200
+Tough as Nails - DEF +1500
+Berserker - ATK +20% when HP is 50% or below
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Confident Grin - Zarbon
+Metamorphosis - Recover 5% HP
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+>Captain's Merit - Captain Ginyu
+The Ginyu Force - ATK + 25%
+Gentleman - Ki +2
+Respect - ATK +500
+Loyalty - Ki +1
+Signature Pose - Ki +2
+>Cold-blooded Vandalism - Android #19
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Loyalty - Ki +1
+Energy Absorption - Ki +2
+>Mad Scientist's Revenge - Dr. Gero
+Android Assault - DEF +1000
+RR Army - ATK +300
+Flee - Ki +1 when HP is 30% or below
+Thirst for Conquest - ATK +15%
+Scientist - Ki +2
+Energy Absorption - Ki +2
+>Escalating Threat - Android #17
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Infinite Energy - Ki +2
+>Fancy Footwork - Android #18
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+Infinite Energy - Ki +2
+>Nature-loving Warrior - Android #16
+Android Assault - DEF +1000
+Mechanical Menaces - Ki +1
+Gentleman - Ki +2
+>Mind-body Mastery - Master Roshi
+Respect - ATK +500
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+The Students - DEF +1000
+>Living Weapon - Mercenary Tao
+Crane School - ATK +500
+Brutal Beatdown - ATK +10%
+Coward - Ki +1
+The Incredible Adventure - Ki +2
+>Unquenchable Ambition - Machine Pilaf
+Mechanical Menaces - Ki +1
+Brutal Beatdown - ATK +10%
+Brainiacs - ATK & DEF +10%
+Thirst for Conquest - ATK +15%
+The Incredible Adventure - Ki +2
+>Exquisite Technique - Shen
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Gentleman - Ki +2
+Strength in Unity - Ki +1
+>Ghoulish Burst - Tambourine
+Demon - Ki +1
+Brutal Beatdown - ATK +10%
+The Incredible Adventure - Ki +2
+>Demon's Disciple - Cymbal
+Demon - Ki +1
+The Incredible Adventure - Ki +2
+>Terror's Descent - Drum
+Demon - Ki +1
+More Than Meets the Eye - ATK +300
+The Incredible Adventure - Ki +2
+>Surging Rage - Chi-Chi
+All in the Family - DEF +15%
+Battlefield Diva - Ki +2
+>Obstacle Eliminator - Dodoria
+Coward - Ki +1
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+Loyalty - Ki +1
+>Dazzling Destruction - Recoome
+The Ginyu Force - ATK + 25%
+Tough as Nails - DEF +1500
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Signature Pose - Ki +2
+>The Timestopper - Guldo
+The Ginyu Force - ATK + 25%
+Telekinesis - Enemy DEF -10%
+Brutal Beatdown - ATK +10%
+Brainiacs - ATK & DEF +10%
+Signature Pose - Ki +2
+>Unfathomable Speed - Burter
+The Ginyu Force - ATK + 25%
+Speedy Retribution - ATK +300
+Tag Team of Terror - ATK +500
+Signature Pose - Ki +2
+>Elite Squadron's Pride - Jeice
+The Ginyu Force - ATK + 25%
+Tag Team of Terror - ATK +500
+Signature Pose - Ki +2
+>A Moment's Chance - Yajirobe
+Tough as Nails - DEF +1500
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Coward - Ki +1
+Flee - Ki +1 when HP is 30% or below
+>Namek's Last Warrior - Nail
+Namekians - Recover 5% HP
+Cold Judgment - DEF +20%
+Hero - DEF + 20%
+>Champion's Honor - Hercule
+World Tournament Champion - Ki +1
+The Hercule Family - Ki +1
+Hero - DEF + 20%
+Money Money Money - Ki +1
+World Tournament Reborn - ATK +300
+>Buried Passion - Videl
+The Hercule Family - Ki +1
+Cold Judgment - DEF +20%
+Money Money Money - Ki +1
+Courage - Ki +1
+Battlefield Diva - Ki +2
+>Tiny Terror - Cell Jr.
+Attack of the Clones - Ki +1
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Savagery Unleashed - Spopovich
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Evil Autocrats - Ki +1
+Demon Duo - ATK +20%
+>Malicious Scheme - Yamu
+Evil Autocrats - Ki +1
+Demon Duo - ATK +20%
+Berserker - ATK +20% when HP is 50% or below
+>Light-Devouring Beast - Yakon
+Evil Autocrats - Ki +1
+Loyalty - Ki +1
+Shocking Speed - Ki +2
+Majin Resurrection Plan - Ki +2
+>Undisputed Champion - Hercule
+World Tournament Champion - Ki +1
+The Hercule Family - Ki +1
+Hero - DEF + 20%
+Money Money Money - Ki +1
+World Tournament Reborn - ATK +300
+>Slayer of Evil - Videl
+The Hercule Family - Ki +1
+Cold Judgment - DEF +20%
+Money Money Money - Ki +1
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Battlefield Diva - Ki +2
+>Simple-Minded Devil - Cell Jr.
+Attack of the Clones - Ki +1
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+>Ominous Will - Spopovich
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Evil Autocrats - Ki +1
+>Wicked of Heart - Yamu
+Evil Autocrats - Ki +1
+Demon Duo - ATK +20%
+>Assassin in the Shadows - Yakon
+Evil Autocrats - Ki +1
+>Warrior from Planet Voon - Pui Pui
+Evil Autocrats - Ki +1
+>Steadfast Soldier - Appule
+Frieza's Minion - ATK +300
+>Fierce Raider - Cui
+Coward - Ki +1
+Frieza's Minion - ATK +300
+>Loyal Servant - Babidi's Minion
+Evil Autocrats - Ki +1
+>Unarmed Power - Pintar
+World Tournament Reborn - ATK +300
+More Than Meets the Eye - ATK +300
+>Capable in Love and War - Jewel
+World Tournament Reborn - ATK +300
+>Well-Trained Fist - Killa
+World Tournament Reborn - ATK +300
+>Deep Sea Guardsman - Pirate Robot
+Mechanical Menaces - Ki +1
+>Earthborn Warrior - Saibaiman
+Infighter - ATK +10%, attacked enemy's DEF -10%
+New - ATK +200
+>Lethal Underling - Frieza Soldier
+Frieza's Minion - ATK +300
+>Army of Infamy - Red Ribbon Soldier
+RR Army - ATK +300
+>Messenger from the Future - Trunks (Teen)
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Z Fighters - ATK +15%
+>Hero Chosen by Earth - Hercule
+World Tournament Champion - Ki +1
+The Hercule Family - Ki +1
+Hero - DEF + 20%
+Money Money Money - Ki +1
+World Tournament Reborn - ATK +300
+>Convulsing Rage - Super Saiyan Goku
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Kamehameha - ATK +2500 when Super Attack is launched
+>Super Attack Supreme - Super Saiyan Vegeta
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Royal Lineage - Ki +1
+>Determined Defender - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Experienced Fighters - ATK +10%
+>Extreme Elite's Pride - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+>Exploding Rage - Gohan (Kid)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+Berserker - ATK +20% when HP is 50% or below
+>Blitz Blade - Trunks (Teen)
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Z Fighters - ATK +15%
+>Martial Stability - Krillin
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Best Buddies - Ki +1
+>Demonic Pride - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Brainiacs - ATK & DEF +10%
+Namekians - Recover 5% HP
+>Respect to the Strong - Tien
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Courage - Ki +1
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Power at the Eleventh Hour - Chiaotzu
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Telekinesis - Enemy DEF -10%
+Courage - Ki +1
+>Indomitable Human Spirit  - Yamcha
+Z Fighters - ATK +15%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Turtle School - ATK +500, DEF+500
+Speedy Retribution - ATK +300
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Evil Elegance - Zarbon
+Metamorphosis - Recover 5% HP
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+>Brilliant Battle Prowess - Captain Ginyu
+The Ginyu Force - ATK + 25%
+Gentleman - Ki +2
+Respect - ATK +500
+Loyalty - Ki +1
+Signature Pose - Ki +2
+>Saiyan Baptism - Nappa
+Saiyan Warrior Race - ATK +700
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Berserker - ATK +20% when HP is 50% or below
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Killer Instinct - Android #19
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Loyalty - Ki +1
+Energy Absorption - Ki +2
+>Cunning Strategy - Dr. Gero
+Android Assault - DEF +1000
+RR Army - ATK +300
+Brainiacs - ATK & DEF +10%
+Flee - Ki +1 when HP is 30% or below
+Thirst for Conquest - ATK +15%
+Scientist - Ki +2
+Energy Absorption - Ki +2
+>Dauntless Runner - Android #17
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Infinite Energy - Ki +2
+>Beautiful but Deadly - Android #18
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+Infinite Energy - Ki +2
+>The Warrior Awakens - Android #16
+Android Assault - DEF +1000
+Mechanical Menaces - Ki +1
+Gentleman - Ki +2
+>Martial Guidance - Master Roshi
+Respect - ATK +500
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Warrior - Ki +1
+The Students - DEF +1000
+>Professional Tactician - Mercenary Tao
+Crane School - ATK +500
+Supreme Warrior - Ki +1
+Coward - Ki +1
+Brutal Beatdown - ATK +10%
+Dodon Ray - ATK +2000 when Super Attack is launched
+>Heart of Innocence - Chi-Chi
+All in the Family - DEF +15%
+Battlefield Diva - Ki +2
+>Reckless Rage - Dodoria
+Coward - Ki +1
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+Loyalty - Ki +1
+>Never-Ending Assault - Recoome
+The Ginyu Force - ATK + 25%
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Signature Pose - Ki +2
+>Master of Magic - Guldo
+The Ginyu Force - ATK + 25%
+Telekinesis - Enemy DEF -10%
+Brutal Beatdown - ATK +10%
+Brainiacs - ATK & DEF +10%
+Signature Pose - Ki +2
+>Speed Tactics - Burter
+The Ginyu Force - ATK + 25%
+Speedy Retribution - ATK +300
+Tag Team of Terror - ATK +500
+Signature Pose - Ki +2
+>Maximum Firepower - Jeice
+The Ginyu Force - ATK + 25%
+Tag Team of Terror - ATK +500
+Signature Pose - Ki +2
+>Call of Duty - Nail
+Namekians - Recover 5% HP
+Cold Judgment - DEF +20%
+Hero - DEF + 20%
+>Imminent Showdown - Cui
+Coward - Ki +1
+Frieza's Minion - ATK +300
+>Blazing Justice - Videl
+The Hercule Family - Ki +1
+Cold Judgment - DEF +20%
+Courage - Ki +1
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Battlefield Diva - Ki +2
+>Space Invader - Raditz
+The Saiyan Lineage - Ki +1
+Saiyan Warrior Race - ATK +700
+Coward - Ki +1
+>Inevitable Preemptive Strike - Nappa
+Saiyan Warrior Race - ATK +700
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+New - ATK +200
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Resistance of Tyranny - Gohan (Kid)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+Berserker - ATK +20% when HP is 50% or below
+Demon - Ki +1
+>Passionate Friendship - Krillin
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Best Buddies - Ki +1
+>Burdened by Destiny - Piccolo
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Z Fighters - ATK +15%
+Brainiacs - ATK & DEF +10%
+Demon - Ki +1
+Namekians - Recover 5% HP
+>Lightning Onslaught - Tien
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Courage - Ki +1
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Daring Interception - Chiaotzu
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Telekinesis - Enemy DEF -10%
+Dodon Ray - ATK +2000 when Super Attack is launched
+>Unwavering Confidence - Yamcha
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Speedy Retribution - ATK +300
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Display of Strength - Zarbon
+Metamorphosis - Recover 5% HP
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+>Considerate Captain - Captain Ginyu
+The Ginyu Force - ATK + 25%
+Gentleman - Ki +2
+Respect - ATK +500
+Loyalty - Ki +1
+Signature Pose - Ki +2
+>Target Confirmed - Android #19
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Loyalty - Ki +1
+Energy Absorption - Ki +2
+>Precise Action - Dr. Gero
+Android Assault - DEF +1000
+RR Army - ATK +300
+Flee - Ki +1 when HP is 30% or below
+Thirst for Conquest - ATK +15%
+Scientist - Ki +2
+Energy Absorption - Ki +2
+>Free at Last - Android #17
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Organic Upgrade - Ki +2
+>Cold Analytics - Android #18
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+Organic Upgrade - Ki +2
+>Ironclad Intentions - Android #16
+Android Assault - DEF +1000
+Mechanical Menaces - Ki +1
+Gentleman - Ki +2
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Earnest Passion - Chi-Chi
+All in the Family - DEF +15%
+Battlefield Diva - Ki +2
+>Storm of Destruction - Dodoria
+Coward - Ki +1
+Frieza's Army - DEF +1000
+Frieza's Minion - ATK +300
+Loyalty - Ki +1
+>Death Sentence - Recoome
+The Ginyu Force - ATK + 25%
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Signature Pose - Ki +2
+>Well-Played Trump Card - Guldo
+The Ginyu Force - ATK + 25%
+Telekinesis - Enemy DEF -10%
+Brutal Beatdown - ATK +10%
+Brainiacs - ATK & DEF +10%
+Signature Pose - Ki +2
+>Speed Impulse - Burter
+The Ginyu Force - ATK + 25%
+Speedy Retribution - ATK +300
+Tag Team of Terror - ATK +500
+Signature Pose - Ki +2
+>Lesson in Fear - Jeice
+The Ginyu Force - ATK + 25%
+Tag Team of Terror - ATK +500
+Signature Pose - Ki +2
+>Cowardly Savior - Yajirobe
+Tough as Nails - DEF +1500
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Coward - Ki +1
+Flee - Ki +1 when HP is 30% or below
+>Facing Fate - Nail
+Namekians - Recover 5% HP
+Cold Judgment - DEF +20%
+Hero - DEF + 20%
+>Craving of Battle - Cui
+Coward - Ki +1
+Frieza's Minion - ATK +300
+>Paragon of Justice - Videl
+The Hercule Family - Ki +1
+Cold Judgment - DEF +20%
+Money Money Money - Ki +1
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Battlefield Diva - Ki +2
+>Crane School's Prestige - Master Shen
+Crane School - ATK +500
+Master and Pupil - Ki +1
+The Students - DEF +1000
+The Incredible Adventure - Ki +2
+>Successor of the Strongest - Super Saiyan Gohan (Youth)
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Gaze of Respect - Ki +2
+Kamehameha - ATK +2500 when Super Attack is launched
+>Transcending Limits - Goku (Kaioken)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Shocking Speed - Ki +2
+Over in a Flash - Ki +3
+>Cruel Tactics - Nappa
+Saiyan Warrior Race - ATK +700
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Berserker - ATK +20% when HP is 50% or below
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Cocky Counter - Raditz
+The Saiyan Lineage - Ki +1
+Saiyan Warrior Race - ATK +700
+Coward - Ki +1
+Brutal Beatdown - ATK +10%
+>Burning Spirit - Yamcha
+Z Fighters - ATK +15%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Turtle School - ATK +500, DEF+500
+Speedy Retribution - ATK +300
+Kamehameha - ATK +2500 when Super Attack is launched
+>Proud till the Last - Tien
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Dodon Ray - ATK +2000 when Super Attack is launched
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Eternal Bond - Chiaotzu
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Telekinesis - Enemy DEF -10%
+Dodon Ray - ATK +2000 when Super Attack is launched
+>The Fruits of Training - Super Saiyan 2 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Family Ties - Ki +2
+>The First Awakened - Super Saiyan Bardock
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Family Ties - Ki +2
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+>Warrior of Daring - Fasha
+Saiyan Warrior Race - ATK +700
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+Battlefield Diva - Ki +2
+>Solitary Warrior - Bardock
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+>The Nightmare Transformed - Frieza (2nd Form)
+Brutal Beatdown - ATK +10%
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Strongest Clan in Space - Ki +2
+>Warrior of Conviction - Tora
+Saiyan Warrior Race - ATK +700
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+>Warrior of Few Words - Borgos
+Saiyan Warrior Race - ATK +700
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Warrior of Ferocity - Shugesh
+Saiyan Warrior Race - ATK +700
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+Tough as Nails - DEF +1500
+>Ultimate Sacrifice - Nail
+Namekians - Recover 5% HP
+Cold Judgment - DEF +20%
+Hero - DEF + 20%
+>Horror from Hell - Frieza (Final Form)
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Shocking Speed - Ki +2
+Strongest Clan in Space - Ki +2
+Nightmare - ATK +10%
+>Super Saiyan from the Future - Super Saiyan Trunks (Teen)
+Golden Warrior - Ki +1, enemy DEF -2000
+Messenger from the Future - ATK +500
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Z Fighters - ATK +15%
+>Savage Speed - Frieza (3rd Form)
+Brutal Beatdown - ATK +10%
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Shocking Speed - Ki +2
+Strongest Clan in Space - Ki +2
+>Intimidating Body Exchange - Ginyu (Goku)
+The Ginyu Force - ATK + 25%
+Gentleman - Ki +2
+Respect - ATK +500
+Loyalty - Ki +1
+Signature Pose - Ki +2
+More Than Meets the Eye - ATK +300
+>Furious Impact - Gohan (Kid)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+The Saiyan Lineage - Ki +1
+>Namekian Rage - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Experienced Fighters - ATK +10%
+Namekians - Recover 5% HP
+Gaze of Respect - Ki +2
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Technician of Time - Guldo
+The Ginyu Force - ATK + 25%
+Telekinesis - Enemy DEF -10%
+Brutal Beatdown - ATK +10%
+Brainiacs - ATK & DEF +10%
+Signature Pose - Ki +2
+>Wisdom and Experience - Krillin
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Best Buddies - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+>Terror Perfected - Perfect Cell
+Revival - Ki +2
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Kamehameha - ATK +2500 when Super Attack is launched
+Attack of the Clones - Ki +1
+>Saiyan Spirit - Super Saiyan 2 Gohan (Youth)
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Strength Evolved - Cell (2nd Form)
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Attack of the Clones - Ki +1
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Perfect Power - Cell (Perfect Form)
+Gentleman - Ki +2
+Messenger from the Future - ATK +500
+Attack of the Clones - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>A Future Forsaken - Android #17 (Future)
+Android Assault - DEF +1000
+Brutal Beatdown - ATK +10%
+Dismal Future - Ki +1
+Organic Upgrade - Ki +2
+>Dastardly Demoness - Android #18 (Future)
+Android Assault - DEF +1000
+Brutal Beatdown - ATK +10%
+Battlefield Diva - Ki +2
+Dismal Future - Ki +1
+Organic Upgrade - Ki +2
+>Miraculous Return - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Experienced Fighters - ATK +10%
+>Elite Offspring - Trunks (Kid)
+The Innocents - ATK +10%
+Royal Lineage - Ki +1
+Money Money Money - Ki +1
+World Tournament Champion - Ki +1
+Z Fighters - ATK +15%
+>The True Value of Master Shen - Tien
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Cold Judgment - DEF +20%
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Combative Will - Super Saiyan 2 Vegeta
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Royal Lineage - Ki +1
+Revival - Ki +2
+>Surging Spirit - Super Trunks
+Golden Warrior - Ki +1, enemy DEF -2000
+Messenger from the Future - ATK +500
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Z Fighters - ATK +15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Power Unleashed - Android #16
+Android Assault - DEF +1000
+Mechanical Menaces - Ki +1
+Gentleman - Ki +2
+Tough as Nails - DEF +1500
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Engineered Evil - Android #19
+Android Assault - DEF +1000
+Energy Absorption - Ki +2
+Brutal Beatdown - ATK +10%
+Flee - Ki +1 when HP is 30% or below
+>Pure Corruption - Dr. Gero
+Android Assault - DEF +1000
+Energy Absorption - Ki +2
+Brutal Beatdown - ATK +10%
+Prodigies - ATK +10%
+Thirst for Conquest - ATK +15%
+Scientist - Ki +2
+>A New Start - Gohan (Teen)
+Brainiacs - ATK & DEF +10%
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Z Fighters - ATK +15%
+>Honed for Battle - Trunks (Teen)
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Z Fighters - ATK +15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Fearless Fighter - Yamcha
+>Fearless Fighter - Krillin
+>Wolf of the Gale - Yamcha
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+>The Way of Battle - Tien
+Crane School - ATK +500
+Z Fighters - ATK +15%
+>Anticipated Telekinesis - Chiaotzu
+Crane School - ATK +500
+Z Fighters - ATK +15%
+>The Power to Shake the Universe - Super Saiyan 3 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Over in a Flash - Ki +3
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>A Warrior Obsessed - Majin Vegeta
+Majin Resurrection Plan - Ki +2
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Saiyan Pride - ATK +15%
+Over in a Flash - Ki +3
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>A Monster Unleashed - Majin Buu (Good)
+The Innocents - ATK +10%
+Revival - Ki +2
+Master of Magic - ATK +15%
+Majin - ATK & DEF +10%
+Infinite Regeneration - Recover 3% HP
+Nightmare - ATK +10%
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Evil Incarnate - Majin Buu (Pure Evil)
+Majin - ATK & DEF +10%
+Berserker - ATK +20% when HP is 50% or below
+Brutal Beatdown - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Infinite Regeneration - Recover 3% HP
+Nightmare - ATK +10%
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Savage Battle Instinct - Buu (Super)
+Majin - ATK & DEF +10%
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+Metamorphosis - Recover 5% HP
+Infinite Regeneration - Recover 3% HP
+Fear and Faith - Ki +2
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Origin of Despair - Buu (Kid)
+Majin - ATK & DEF +10%
+Brutal Beatdown - ATK +10%
+More Than Meets the Eye - ATK +300
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Infinite Regeneration - Recover 3% HP
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Demonic Lord of Darkness - Dabura
+Brutal Beatdown - ATK +10%
+Demon Duo - ATK +20%
+Loyalty - Ki +1
+Master of Magic - ATK +15%
+Majin Resurrection Plan - Ki +2
+Nightmare - ATK +10%
+>Mesmerizing Might - Videl
+The Hercule Family - Ki +1
+Cold Judgment - DEF +20%
+Money Money Money - Ki +1
+Courage - Ki +1
+Battlefield Diva - Ki +2
+>Fighting Prodigy - Goten (Kid)
+The Innocents - ATK +10%
+All in the Family - DEF +15%
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Power Awakened - Ultimate Gohan
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Shocking Speed - Ki +2
+Power Bestowed by God - ATK +2500 when Super Attack is launched
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Infinite Potential - Uub (Youth)
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Tough as Nails - DEF +1500
+World Tournament Reborn - ATK +300
+Revival - Ki +2
+Berserker - ATK +20% when HP is 50% or below
+>Bursting with Power - Pan (Kid)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Battlefield Diva - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Malevolent Magician - Babidi
+Brutal Beatdown - ATK +10%
+Master of Magic - ATK +15%
+Majin Resurrection Plan - Ki +2
+>Twin-Clawed Terror - Yakon
+Evil Autocrats - Ki +1
+Loyalty - Ki +1
+Shocking Speed - Ki +2
+Majin Resurrection Plan - Ki +2
+>Confident Sentry - Pui Pui
+Evil Autocrats - Ki +1
+Loyalty - Ki +1
+Majin Resurrection Plan - Ki +2
+>A God Evolved - Super Saiyan God SS Goku
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>To Greater Heights - Super Saiyan God SS Vegeta
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Prodigies - ATK +10%
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>Fear's Ultimate Form - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>Carnage Awakens - Beerus
+>Mysterious Mentor - Whis
+>Top-Tier Training - Goku
+All in the Family - DEF +15%
+Best Buddies - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Galactic Visitor - Ki +1
+Resurrection 'F' - ATK +700
+>Tireless Training - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+Resurrection 'F' - ATK +700
+>The Nightmare Returns - Frieza (Final Form)
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Shocking Speed - Ki +2
+Revival - Ki +2
+Strongest Clan in Space - Ki +2
+>3rd Stellar Region Officer - Sorbet
+Brainiacs - ATK & DEF +10%
+Frieza's Minion - ATK +300
+New Frieza Army - ATK +1000, DEF +1000
+Loyalty - Ki +1
+Resurrection 'F' - ATK +700
+>Underling's Devotion - Tagoma
+Frieza's Minion - ATK +300
+New Frieza Army - ATK +1000, DEF +1000
+Loyalty - Ki +1
+Resurrection 'F' - ATK +700
+>Protector of the Peace - Krillin (Police Officer)
+Z Fighters - ATK +15%
+Courage - Ki +1
+Best Buddies - Ki +1
+Patrol - Ki +2
+Resurrection 'F' - ATK +700
+>Hasty Charge - Gohan (Teen)
+Brainiacs - ATK & DEF +10%
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+The Saiyan Lineage - Ki +1
+Resurrection 'F' - ATK +700
+>Indomitable Sense of Justice - Super Saiyan Gohan (Teen)
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Unbreakable Bond - Ki +2
+Resurrection 'F' - ATK +700
+>Galactic Patrolman - Jaco
+Brainiacs - ATK & DEF +10%
+Flee - Ki +1 when HP is 30% or below
+Galactic Visitor - Ki +1
+Patrol - Ki +2
+Resurrection 'F' - ATK +700
+>Miraculous Return - Master Roshi (Max Power)
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Warrior - Ki +1
+Resurrection 'F' - ATK +700
+>Respect to the Strong - Tien
+>Innocent Challenger - Goku (Youth)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+The Incredible Adventure - Ki +2
+>An Exciting Adventure - Goku (Youth)
+All in the Family - DEF +15%
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Terror Strikes Again - Demon King Piccolo (Elder)
+Revival - Ki +2
+Demon - Ki +1
+Strength in Unity - Ki +1
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+Nightmare - ATK +10%
+>Full Power Desperation - Demon King Piccolo
+Thirst for Conquest - ATK +15%
+Demon - Ki +1
+Strength in Unity - Ki +1
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+Nightmare - ATK +10%
+>Heir to the Evil King - Piccolo Jr.
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Bombardment - ATK +15%
+Tough as Nails - DEF +1500
+Demon - Ki +1
+Strength in Unity - Ki +1
+>Impressive Ninja Skills - Murasaki
+RR Army - ATK +300
+Flee - Ki +1 when HP is 30% or below
+Coward - Ki +1
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Deep Blue Gaze - General Blue
+RR Army - ATK +300
+Telekinesis - Enemy DEF -10%
+Brutal Beatdown - ATK +10%
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>A Girl's Rage - Chi-Chi (Youth)
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+The Incredible Adventure - Ki +2
+>Marauding Bandit of the Wild - Yamcha
+Brainiacs - ATK & DEF +10%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Speedy Retribution - ATK +300
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Boundless Ambition - Krillin (Youth)
+The Incredible Adventure - Ki +2
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+>Masterful Technique - Master Roshi (Max Power)
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Warrior - Ki +1
+The Students - DEF +1000
+>Devilish Deception - Devilman
+Demon Duo - ATK +20%
+World Tournament Champion - Ki +1
+Fortuneteller Baba's Fighter - Ki +2
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Bone-Dry Battle - Bandages
+More Than Meets the Eye - ATK +300
+Tough as Nails - DEF +1500
+Fortuneteller Baba's Fighter - Ki +2
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Unusual Battle Skills - Dracula Man
+Metamorphosis - Recover 5% HP
+Flee - Ki +1 when HP is 30% or below
+Fortuneteller Baba's Fighter - Ki +2
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>The Miracle of Potara - Vegito
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+Prepared for Battle - Ki +2
+Power Bestowed by God - ATK +2500 when Super Attack is launched
+Fused Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Double the Power - Gotenks
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+The Innocents - ATK +10%
+Shocking Speed - Ki +2
+Fused Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Divine Evolution - Super Saiyan God SS Goku
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>Limitless Strength - Goku
+All in the Family - DEF +15%
+Best Buddies - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Galactic Visitor - Ki +1
+Resurrection 'F' - ATK +700
+>Great Brilliance - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Saiyan Warrior Race - ATK +700
+Prepared for Battle - Ki +2
+Golden Z-Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Exerted Ability - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Saiyan Pride - ATK +15%
+Prodigies - ATK +10%
+Prepared for Battle - Ki +2
+Golden Z-Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Coldhearted Invasion - Coora
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+Prodigies - ATK +10%
+Brutal Beatdown - ATK +10%
+>Overwhelming Fear - Coora (Final Form)
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+Prodigies - ATK +10%
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+>Ruthless Intellect - Thouser
+Coora's Armored Squad - ATK +25%
+Coora's Underling - Ki +1
+Loyalty - Ki +1
+Cold Judgment - DEF +20%
+>Decimating Power - Doure
+Coora's Armored Squad - ATK +25%
+Coora's Underling - Ki +1
+Loyalty - Ki +1
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Astonishing Strategy - Naise
+Coora's Armored Squad - ATK +25%
+Coora's Underling - Ki +1
+Loyalty - Ki +1
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Evil-Borne Monster - Android #13
+RR Army - ATK +300
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Cold Judgment - DEF +20%
+>Deadliest Fusion Power - Fusion Android #13
+RR Army - ATK +300
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Metamorphosis - Recover 5% HP
+Nightmare - ATK +10%
+Fear and Faith - Ki +2
+>Fearless Fighter - Android #14
+>Fearless Fighter - Android #15
+>Full Strength Tremor - Full Power Boujack
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Thirst for Conquest - ATK +15%
+Coward - Ki +1
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Talented Son - Super Saiyan Trunks (Kid)
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Z Fighters - ATK +15%
+Budding Warrior - ATK +10%
+>Promising Son - Super Saiyan Goten (Kid)
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Z Fighters - ATK +15%
+Budding Warrior - ATK +10%
+>Crimson Rush - Shisami
+Frieza's Minion - ATK +300
+New Frieza Army - ATK +1000, DEF +1000
+Loyalty - Ki +1
+Resurrection 'F' - ATK +700
+>Strength of Trust - Tien
+Z Fighters - ATK +15%
+Master and Pupil - Ki +1
+Crane School - ATK +500
+Courage - Ki +1
+Resurrection 'F' - ATK +700
+>Seasoned Warrior - Piccolo
+Prodigies - ATK +10%
+Brainiacs - ATK & DEF +10%
+Namekians - Recover 5% HP
+Unbreakable Bond - Ki +2
+Resurrection 'F' - ATK +700
+>Worth 1 Million Zeni - Hercule Statue (Gold)
+>Worth 500,000 Zeni - Hercule Statue (Silver)
+>Worth 250,000 Zeni - Hercule Statue (Bronze)
+>Carnage Awakens - Beerus
+Godly Power - ATK +15%
+Prodigies - ATK +10%
+Connoisseur - Recover 5% HP
+The Innocents - ATK +10%
+>Mysterious Mentor - Whis
+Godly Power - ATK +15%
+Cold Judgment - DEF +20%
+Connoisseur - Recover 5% HP
+Gentleman - Ki +2
+>Grand Plan - Gohan (Youth)
+Kamehameha - ATK +2500 when Super Attack is launched
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+>Resolute Valor - Super Saiyan Gohan (Youth)
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+>Entrusted Mission - Super Saiyan 2 Gohan (Youth)
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Transcended Power Level - Goku
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Shocking Speed - Ki +2
+Z Fighters - ATK +15%
+Best Buddies - Ki +1
+>Message from Another World - Goku (Angel)
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Experienced Fighters - ATK +10%
+>Resolute Assault - Gohan (Youth)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+Golden Z-Fighter - Ki +2
+>Divine Wisdom - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Experienced Fighters - ATK +10%
+Namekians - Recover 5% HP
+Soul vs Soul - Weakens Regeneration and Ki +1
+Golden Z-Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Future Hope - Trunks (Teen)
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Z Fighters - ATK +15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+Golden Z-Fighter - Ki +2
+>Beyond Limits - Tien
+Z Fighters - ATK +15%
+Crane School - ATK +500
+Dodon Ray - ATK +2000 when Super Attack is launched
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+Golden Z-Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Hero of Love and Justice - Great Saiyaman
+Brainiacs - ATK & DEF +10%
+Z Fighters - ATK +15%
+Patrol - Ki +2
+Hero of Justice - ATK +25%
+Signature Pose - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Goddess of Peace - Great Saiyaman 2
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Hero of Justice - ATK +25%
+Signature Pose - Ki +2
+Battlefield Diva - Ki +2
+Patrol - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Going Galactic - Goku (GT)  
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+GT - Ki +2
+>Curiosity for the Unknown - Pan (GT)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Battlefield Diva - Ki +2
+GT - Ki +2
+>Experience and Growth - Super Saiyan Trunks (GT)
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Saiyan Warrior Race - ATK +700
+Cold Judgment - DEF +20%
+GT - Ki +2
+>Reignited Fighting Spirit - Vegeta (GT)
+Saiyan Warrior Race - ATK +700
+Prodigies - ATK +10%
+The Saiyan Lineage - Ki +1
+Royal Lineage - Ki +1
+GT - Ki +2
+>Dashing Light - Super Saiyan Goku (GT)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+GT - Ki +2
+>Symbol of Peace - Hercule (GT)
+World Tournament Champion - Ki +1
+The Hercule Family - Ki +1
+Hero - DEF + 20%
+Money Money Money - Ki +1
+GT - Ki +2
+>Proof of a Warrior - Super Saiyan Gohan (GT)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+GT - Ki +2
+>Reaching New Heights - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Kamehameha - ATK +2500 when Super Attack is launched
+World Tournament Reborn - ATK +300
+>The Will of the Victorious - King Chappa
+Supreme Warrior - Ki +1
+World Tournament Champion - Ki +1
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Mutating Monster - Oolong
+Metamorphosis - Recover 5% HP
+Flee - Ki +1 when HP is 30% or below
+Coward - Ki +1
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+>Beyond Super Saiyan God - Super Saiyan God SS Goku
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Super-God Combat - ATK +15%
+>Unlimited Power - Super Saiyan 2 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Infighter - ATK +10%, attacked enemy's DEF -10%
+>Triumphant Light - Super Saiyan Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Z Fighters - ATK +15%
+Prepared for Battle - Ki +2
+>Aiming for the Top - Super Saiyan 2 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Prepared for Battle - Ki +2
+>Mystery Super Technique - Super Saiyan 3 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Over in a Flash - Ki +3
+Limit-Breaking Form - ATK +2000 when Super Attack is launched
+Fierce Battle - ATK +15%
+>Last Minute Technique - Super Saiyan Vegeta
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Prepared for Battle - Ki +2
+Golden Warrior - Ki +1, enemy DEF -2000
+Royal Lineage - Ki +1
+>Overbearing Power - Super Saiyan 2 Vegeta
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Prodigies - ATK +10%
+Prepared for Battle - Ki +2
+>Limit-Breaking Elite - Super Saiyan 3 Vegeta
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Royal Lineage - Ki +1
+Prodigies - ATK +10%
+Limit-Breaking Form - ATK +2000 when Super Attack is launched
+>Rocky Road to Peace - Gohan (Teen)
+Brainiacs - ATK & DEF +10%
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Z Fighters - ATK +15%
+>Unyielding Sincerity - Super Saiyan Gohan (Teen)
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+The Saiyan Lineage - Ki +1
+Z Fighters - ATK +15%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Inherited Mission - Super Saiyan 2 Gohan (Teen)
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Z Fighters - ATK +15%
+Shocking Speed - Ki +2
+Kamehameha - ATK +2500 when Super Attack is launched
+>A Slash of Respect - Super Saiyan Trunks (Teen)
+Messenger from the Future - ATK +500
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Z Fighters - ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+>Swelling Power - Super Trunks
+Golden Warrior - Ki +1, enemy DEF -2000
+Messenger from the Future - ATK +500
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Z Fighters - ATK +15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Flare of Death - Perfect Cell
+Revival - Ki +2
+Messenger from the Future - ATK +500
+Attack of the Clones - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Ultimate Lifeform - Ki +2
+>Heartless Destruction - Buu (Kid)
+Majin - ATK & DEF +10%
+Brutal Beatdown - ATK +10%
+More Than Meets the Eye - ATK +300
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Infinite Regeneration - Recover 3% HP
+Fierce Battle - ATK +15%
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Beyond Human Intellect - Mr. Buu
+The Innocents - ATK +10%
+Master of Magic - ATK +15%
+Majin - ATK & DEF +10%
+Infinite Regeneration - Recover 3% HP
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>The Trump Card - Goku (Kaioken)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Shocking Speed - Ki +2
+Over in a Flash - Ki +3
+>State of God - Super Saiyan God Goku
+Godly Power - ATK +15%
+Warrior Gods - ATK +10%
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+All in the Family - DEF +15%
+>Irreversible Judgement - Beerus
+Godly Power - ATK +15%
+Shocking Speed - Ki +2
+Connoisseur - Recover 5% HP
+The Innocents - ATK +10%
+>Enigmatic Power - Whis
+Godly Power - ATK +15%
+Shocking Speed - Ki +2
+Connoisseur - Recover 5% HP
+Gentleman - Ki +2
+>Raging Rampage - Hatchiyack
+Hatred of Saiyans - Ki +2
+Berserker - ATK +20% when HP is 50% or below
+Tough as Nails - DEF +1500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+> - Super Hatchiyack
+>Vengeful Spirit - Dr. Lychee
+Scientist - Ki +2
+Hatred of Saiyans - Ki +2
+Revival - Ki +2
+Brainiacs - ATK & DEF +10%
+>Kami’s Ordeal - Mr. Popo
+>Letter of the Law - Kibito
+World Tournament Reborn - ATK +300
+Gentleman - Ki +2
+Master of Magic - ATK +15%
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+Golden Z-Fighter - Ki +2
+>Holy Might - Supreme Kai
+World Tournament Reborn - ATK +300
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Cold Judgment - DEF +20%
+Master of Magic - ATK +15%
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+> - Doflamingo
+>Deadly Awakening - Super Saiyan Goku
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Kamehameha - ATK +2500 when Super Attack is launched
+>Cultivated Technique - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Experienced Fighters - ATK +10%
+Namekians - Recover 5% HP
+Attack of the Clones - Ki +1
+>Heightened Intuition - Yamcha
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Speedy Retribution - ATK +300
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Masterful Technique - Master Roshi (Max Power)
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Warrior - Ki +1
+The Students - DEF +1000
+>A Girl's Rage - Chi-Chi (Youth)
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+The Incredible Adventure - Ki +2
+>Captured Wisdom - Majin Buu (Piccolo)
+Brainiacs - ATK & DEF +10%
+Demon - Ki +1
+Majin - ATK & DEF +10%
+Metamorphosis - Recover 5% HP
+Coward - Ki +1
+Nightmare - ATK +10%
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Hero of Love and Justice - Great Saiyaman
+Brainiacs - ATK & DEF +10%
+Z Fighters - ATK +15%
+Patrol - Ki +2
+Hero of Justice - ATK +25%
+Signature Pose - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Goddess of Peace - Great Saiyaman 2
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Battlefield Diva - Ki +2
+Hero of Justice - ATK +25%
+Signature Pose - Ki +2
+Patrol - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Ever-Evolving Legend - Super Saiyan God SS Vegeta
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Prodigies - ATK +10%
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>Proudest in the Universe - Coora (Final Form)
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+Cold Judgment - DEF +20%
+Brutal Beatdown - ATK +10%
+Metamorphosis - Recover 5% HP
+Nightmare - ATK +10%
+>Endless Horror - Metal Coora [AGL]
+Auto Regeneration - Recover 3% HP
+Fusion - Ki +2
+Deficit Boost - ATK +15%
+Brutal Beatdown - ATK +10%
+>Fighting Machine - Cyclopian Guards
+Mechanical Menaces - Ki +1
+Brutal Beatdown - ATK +10%
+>The Fearsome Tree of Might - Turles
+Destroyer of the Universe - ATK +25%
+Saiyan Warrior Race - ATK +700
+Prepared for Battle - Ki +2
+Thirst for Conquest - ATK +15%
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+>The Weight of Hope - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Saiyan Warrior Race - ATK +700
+Prepared for Battle - Ki +2
+>A New Legend Begins - Super Saiyan Bardock
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Prepared for Battle - Ki +2
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+>Absolute Realm of God - Super Saiyan God Goku
+Godly Power - ATK +15%
+Shocking Speed - Ki +2
+Super Saiyan - ATK +10%
+Over in a Flash - Ki +3
+Kamehameha - ATK +2500 when Super Attack is launched
+>Earth’s Savior - Hercule
+World Tournament Champion - Ki +1
+The Hercule Family - Ki +1
+Hero - DEF + 20%
+Money Money Money - Ki +1
+Soul vs Soul - Weakens Regeneration and Ki +1
+Golden Z-Fighter - Ki +2
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>White Hot Face-Off - Super Saiyan Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Ceaseless Terror - Perfect Cell
+Revival - Ki +2
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Kamehameha - ATK +2500 when Super Attack is launched
+Attack of the Clones - Ki +1
+Ultimate Lifeform - Ki +2
+Fierce Battle - ATK +15%
+>Symbol of Death - Buu (Kid)
+Majin - ATK & DEF +10%
+Brutal Beatdown - ATK +10%
+More Than Meets the Eye - ATK +300
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Infinite Regeneration - Recover 3% HP
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Flawless Combat - Android #18
+Infinite Energy - Ki +2
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Battlefield Diva - Ki +2
+Soul vs Soul - Weakens Regeneration and Ki +1
+Nightmare - ATK +10%
+>True Might - Android #17
+Infinite Energy - Ki +2
+Android Assault - DEF +1000
+Twin Terrors - Ki +2
+The Innocents - ATK +10%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Soul vs Soul - Weakens Regeneration and Ki +1
+Fear and Faith - Ki +2
+>Super Warrior of Destruction - Legendary Super Saiyan Broly 
+Hardened Grudge - Ki +1
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+The Saiyan Lineage - Ki +1
+Berserker - ATK +20% when HP is 50% or below
+Fierce Battle - ATK +15%
+>Evil Wizardry - Dabura
+Brutal Beatdown - ATK +10%
+Demon Duo - ATK +20%
+Loyalty - Ki +1
+Master of Magic - ATK +15%
+Majin Resurrection Plan - Ki +2
+Nightmare - ATK +10%
+>Latent Power - Gohan (Teen)
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Cold Judgment - DEF +20%
+Revival - Ki +2
+Power Bestowed by God - ATK +2500 when Super Attack is launched
+>Train Anywhere - Goku
+All in the Family - DEF +15%
+The Saiyan Lineage - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+>Never-Ending Battle - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Saiyan Pride - ATK +15%
+Prodigies - ATK +10%
+>Audacious Adventurer - Bulma
+Money Money Money - Ki +1
+Flee - Ki +1 when HP is 30% or below
+Brainiacs - ATK & DEF +10%
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Scientist - Ki +2
+>New Challenges - Super Saiyan Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+All in the Family - DEF +15%
+>In Pursuit of a Formidable Foe - Beerus
+Godly Power - ATK +15%
+Prodigies - ATK +10%
+Connoisseur - Recover 5% HP
+The Innocents - ATK +10%
+>Dangerous Cyborg Fighter - Cacao
+Destroyer of the Universe - ATK +25%
+Team Turles - Ki +1
+Loyalty - Ki +1
+Speedy Retribution - ATK +300
+Mechanical Menaces - Ki +1
+>Daring Charger - Daiz
+Destroyer of the Universe - ATK +25%
+Team Turles - Ki +1
+Loyalty - Ki +1
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+>Ferocious Physique - Amond
+Destroyer of the Universe - ATK +25%
+Team Turles - Ki +1
+Loyalty - Ki +1
+Tough as Nails - DEF +1500
+>Mindpower Destruction - Rasin
+Destroyer of the Universe - ATK +25%
+Team Turles - Ki +1
+Loyalty - Ki +1
+Attack of the Clones - Ki +1
+>Twin Blitzer - Lakasei
+Destroyer of the Universe - ATK +25%
+Team Turles - Ki +1
+Loyalty - Ki +1
+Attack of the Clones - Ki +1
+>Mysterious Ritual - Elder Kai
+>Seeking Thrill and Romance - Bulma (Youth)
+Money Money Money - Ki +1
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Brainiacs - ATK & DEF +10%
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+Scientist - Ki +2
+>The Last Instant Transmission - Super Saiyan Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+All in the Family - DEF +15%
+>Merging Destinies - Majuub
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Master of Magic - ATK +15%
+Majin - ATK & DEF +10%
+Cold Judgment - DEF +20%
+GT - Ki +2
+>Fury Unleashed - Super Saiyan 2 Gohan (Youth)
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Crusher of Evil - Super Saiyan God SS Goku
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+Prepared for Battle - Ki +2
+>Burning Fury - Super Saiyan God SS Vegeta
+Super Saiyan - ATK +10%
+Warrior Gods - ATK +10%
+Prodigies - ATK +10%
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+Prepared for Battle - Ki +2
+>Golden Emperor - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+Strongest Clan in Space - Ki +2
+>Stimulating Beauty - Bulma (Bunny)
+Money Money Money - Ki +1
+Rival Duo - ATK +10%, attacked enemy's DEF -15%
+Brainiacs - ATK & DEF +10%
+The Incredible Adventure - Ki +2
+Guidance of the Dragon Balls - ATK +20%
+Scientist - Ki +2
+>Dual Personality - Launch
+Guidance of the Dragon Balls - ATK +20%
+The Incredible Adventure - Ki +2
+Flee - Ki +1 when HP is 30% or below
+>Legendary Super Saiyan - Super Saiyan Goku
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Saiyan Warrior Race - ATK +700
+All in the Family - DEF +15%
+>Stunning Metamorphosis - Super Saiyan 3 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Over in a Flash - Ki +3
+Limit-Breaking Form - ATK +2000 when Super Attack is launched
+>Inherited Honor - Super Saiyan Vegeta
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Prodigies - ATK +10%
+Prepared for Battle - Ki +2
+> - 0
+>Father’s Pride - Super Saiyan Goku
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Brother’s Will - Super Saiyan Gohan (Teen)
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Brother’s Wish - Super Saiyan Goten (Kid)
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+>Pure Confidence - Super Vegeta
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Prodigies - ATK +10%
+Z Fighters - ATK +15%
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Fist of Conviction - Super Saiyan Bardock
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Family Ties - Ki +2
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+Prepared for Battle - Ki +2
+The First Awakened - ATK +25%
+>Evolved Form - Cell (Perfect Form)
+Gentleman - Ki +2
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Kamehameha - ATK +2500 when Super Attack is launched
+Attack of the Clones - Ki +1
+Ultimate Lifeform - Ki +2
+Formidable Enemy - ATK +10%
+>Murderous Designs - Buu (Super)
+Majin - ATK & DEF +10%
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+Metamorphosis - Recover 5% HP
+Infinite Regeneration - Recover 3% HP
+Formidable Enemy - ATK +10%
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Talent from Dad - Super Saiyan Trunks (Kid)
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+>Danger Sense - Krillin
+Z Fighters - ATK +15%
+Turtle School - ATK +500, DEF+500
+Courage - Ki +1
+Best Buddies - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Cell Fusion - Cell (1st Form)
+Flee - Ki +1 when HP is 30% or below
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Attack of the Clones - Ki +1
+>Innocent Assault - Majin Buu (Good)
+The Innocents - ATK +10%
+Revival - Ki +2
+Master of Magic - ATK +15%
+Majin - ATK & DEF +10%
+Infinite Regeneration - Recover 3% HP
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Immortal Grudge - Metal Coora
+Auto Regeneration - Recover 3% HP
+Fusion - Ki +2
+Deficit Boost - ATK +15%
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+Fear and Faith - Ki +2
+>Surpassing All - Perfect Cell
+Revival - Ki +2
+Messenger from the Future - ATK +500
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Kamehameha - ATK +2500 when Super Attack is launched
+Attack of the Clones - Ki +1
+Ultimate Lifeform - Ki +2
+Fierce Battle - ATK +15%
+>Winged Beast - Giran
+Guidance of the Dragon Balls - ATK +20%
+The Incredible Adventure - Ki +2
+More Than Meets the Eye - ATK +300
+Coward - Ki +1
+>Fulfilled Dreams - Staff Officer Black
+Guidance of the Dragon Balls - ATK +20%
+The Incredible Adventure - Ki +2
+RR Army - ATK +300
+Brainiacs - ATK & DEF +10%
+>All-Out Charge - Super Saiyan Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Z Fighters - ATK +15%
+Prepared for Battle - Ki +2
+Kamehameha - ATK +2500 when Super Attack is launched
+>Gentle-Hearted Warrior - Super Saiyan Gohan (Youth)
+Super Saiyan - ATK +10%
+Saiyan Warrior Race - ATK +700
+Golden Warrior - Ki +1, enemy DEF -2000
+Gaze of Respect - Ki +2
+Kamehameha - ATK +2500 when Super Attack is launched
+Z Fighters - ATK +15%
+>Ace Up the Sleeve - Piccolo
+Z Fighters - ATK +15%
+Prodigies - ATK +10%
+Experienced Fighters - ATK +10%
+Namekians - Recover 5% HP
+Gaze of Respect - Ki +2
+>Bulging Power - Super Saiyan Goku
+Z Fighters - ATK +15%
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Prepared for Battle - Ki +2
+Kamehameha - ATK +2500 when Super Attack is launched
+>Extra Bulge - Gotenks (Failure) A
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+The Innocents - ATK +10%
+Fused Fighter - Ki +2
+Fusion Failure - Recover 3% HP
+Bombardment - ATK +15%
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Early Exhaustion - Gotenks (Failure) B
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+The Innocents - ATK +10%
+Fused Fighter - Ki +2
+Fusion Failure - Recover 3% HP
+Bombardment - ATK +15%
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Roots of an Evil Line - Chilled
+Brutal Beatdown - ATK +10%
+Coward - Ki +1
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+Bombardment - ATK +15%
+>Mighty Mettle - Master Roshi (Max Power)
+World Tournament Champion - Ki +1
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Warrior - Ki +1
+Resurrection 'F' - ATK +700
+>Tough Gaze - Super Saiyan Gohan (Teen)
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Unbreakable Bond - Ki +2
+Resurrection 'F' - ATK +700
+>Unexpected Use - Jaco
+Brainiacs - ATK & DEF +10%
+Flee - Ki +1 when HP is 30% or below
+Galactic Visitor - Ki +1
+Patrol - Ki +2
+Resurrection 'F' - ATK +700
+>Flouting Objectives - Fusion Android #13
+RR Army - ATK +300
+Android Assault - DEF +1000
+Tough as Nails - DEF +1500
+Metamorphosis - Recover 5% HP
+Nightmare - ATK +10%
+Fear and Faith - Ki +2
+>Galactic Annihilation - Full Power Boujack
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Thirst for Conquest - ATK +15%
+Coward - Ki +1
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Uncontrollable Instinct - Buu (Kid)
+Majin - ATK & DEF +10%
+Brutal Beatdown - ATK +10%
+More Than Meets the Eye - ATK +300
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Infinite Regeneration - Recover 3% HP
+Fierce Battle - ATK +15%
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Clutching Victory - Super Saiyan 3 Goku
+Golden Warrior - Ki +1, enemy DEF -2000
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+Over in a Flash - Ki +3
+Limit-Breaking Form - ATK +2000 when Super Attack is launched
+Fierce Battle - ATK +15%
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+>Flawless Technique - Super Saiyan Goku (Angel) 
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Saiyan Warrior Race - ATK +700
+All in the Family - DEF +15%
+Formidable Enemy - ATK +10%
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+>Enraged Onslaught - Super Saiyan Goten (Kid)
+Golden Warrior - Ki +1, enemy DEF -2000
+All in the Family - DEF +15%
+Super Saiyan - ATK +10%
+Kamehameha - ATK +2500 when Super Attack is launched
+Budding Warrior - ATK +10%
+>Defying the All-Powerful - Super Saiyan Trunks (Kid)
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Royal Lineage - Ki +1
+Z Fighters - ATK +15%
+Budding Warrior - ATK +10%
+> - Lord Slug
+>Fist from the Heavens - Super Saiyan God Goku
+Godly Power - ATK +15%
+Shocking Speed - Ki +2
+Super Saiyan - ATK +10%
+Over in a Flash - Ki +3
+Prepared for Battle - Ki +2
+Warrior Gods - ATK +10%
+The First Awakened - ATK +25%
+>Soul Succession - Uub (Teen)
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Tough as Nails - DEF +1500
+Revival - Ki +2
+Kamehameha - ATK +2500 when Super Attack is launched
+Supreme Power - Activate Penetration, ATK & DEF + 1000
+GT - Ki +2
+>Masterful Comeback - Super Saiyan Gotenks
+Golden Warrior - Ki +1, enemy DEF -2000
+Super Saiyan - ATK +10%
+Prepared for Battle - Ki +2
+The Innocents - ATK +10%
+Fused Fighter - Ki +2
+The Saiyan Lineage - Ki +1
+>Mystical Body - Botamo
+Tough as Nails - DEF +1500
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Cold Judgment - DEF +20%
+Warriors of Universe 6  - Ki +2
+>Slumbering Strength - Gohan (Kid)
+All in the Family - DEF +15%
+Z Fighters - ATK +15%
+The Saiyan Lineage - Ki +1
+>Severance of All Hope - Frieza (1st Form)
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+Frieza's Army - DEF +1000
+Metamorphosis - Recover 5% HP
+Universe's Most Malevolent - ATK +15%
+>Prince of Destiny - Vegeta (Kid)
+Saiyan Warrior Race - ATK +700
+Prodigies - ATK +10%
+The Saiyan Lineage - Ki +1
+Royal Lineage - Ki +1
+>Saiyan Elite - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Prodigies - ATK +10%
+Bombardment - ATK +15%
+Over 9000 - ATK +10%
+>Mercenary’s Mettle - Cyborg Tao
+Crane School - ATK +500
+Supreme Warrior - Ki +1
+Coward - Ki +1
+Bombardment - ATK +15%
+Revival - Ki +2
+>Contemplated Strategies - Grandpa Gohan
+Turtle School - ATK +500, DEF+500
+Kamehameha - ATK +2500 when Super Attack is launched
+All in the Family - DEF +15%
+Bombardment - ATK +15%
+The Incredible Adventure - Ki +2
+>Proud Royalty - King Vegeta
+Royal Lineage - Ki +1
+Saiyan Warrior Race - ATK +700
+Saiyan Pride - ATK +15%
+Bombardment - ATK +15%
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Thirst for Conquest - ATK +15%
+>Western Galaxy Rivalry - Paikuhan
+Gentleman - Ki +2
+Cold Judgment - DEF +20%
+Bombardment - ATK +15%
+Shocking Speed - Ki +2
+Experienced Fighters - ATK +10%
+Soul vs Soul - Weakens Regeneration and Ki +1
+>Star-Crossed Fate - Bardock
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+Team Bardock - Ki +1
+Saiyan Pride - ATK +15%
+>For the Future - Trunks (Xeno)
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Xenoverse - ATK +20%
+>Envoy from Beyond - Trunks (Xeno)
+Royal Lineage - Ki +1
+Cold Judgment - DEF +20%
+Messenger from the Future - ATK +500
+Xenoverse - ATK +20%
+>Dastardly Space Pirate - Chilled
+Brutal Beatdown - ATK +10%
+Coward - Ki +1
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+>Mightiest of Monarchs - King Cold
+Tough as Nails - DEF +1500
+Bombardment - ATK +15%
+Brutal Beatdown - ATK +10%
+Strongest Clan in Space - Ki +2
+>Titanic Tag Team - Mighty Mask
+Blazing Battle - Disables enemy's Rampage, and ATK +15%
+Bombardment - ATK +15%
+World Tournament Reborn - ATK +300
+Flee - Ki +1 when HP is 30% or below
+The Innocents - ATK +10%
+More Than Meets the Eye - ATK +300
+>Seasoned Sensei - Jackie Chun
+Supreme Warrior - Ki +1
+World Tournament Champion - Ki +1
+Kamehameha - ATK +2500 when Super Attack is launched
+Bombardment - ATK +15%
+The Incredible Adventure - Ki +2
+>Invader from Afar - Vegeta
+Saiyan Warrior Race - ATK +700
+Royal Lineage - Ki +1
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+Over 9000 - ATK +10%
+>Sadistic Strongman - Nappa
+Saiyan Warrior Race - ATK +700
+Brutal Beatdown - ATK +10%
+Tough as Nails - DEF +1500
+Berserker - ATK +20% when HP is 50% or below
+Over 9000 - ATK +10%
+>Reborn for Revenge - Mecha Frieza
+Prodigies - ATK +10%
+Bombardment - ATK +15%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Mechanical Menaces - Ki +1
+>Lurking Fear - Broly
+Hardened Grudge - Ki +1
+Saiyan Warrior Race - ATK +700
+The Saiyan Lineage - Ki +1
+>Unleashed Force - Super Saiyan Broly
+Hardened Grudge - Ki +1
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+The Saiyan Lineage - Ki +1
+Formidable Enemy - ATK +10%
+>The Roar of Death - Legendary Super Saiyan Broly 
+Hardened Grudge - Ki +1
+Saiyan Warrior Race - ATK +700
+Super Saiyan - ATK +10%
+The Saiyan Lineage - Ki +1
+Berserker - ATK +20% when HP is 50% or below
+>Overflowing Resolve - Goku
+Z Fighters - ATK +15%
+All in the Family - DEF +15%
+Best Buddies - Ki +1
+Experienced Fighters - ATK +10%
+The Saiyan Lineage - Ki +1
+>Embodiment of Evil - Frieza (1st Form)
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Prodigies - ATK +10%
+Frieza's Army - DEF +1000
+Strongest Clan in Space - Ki +2
+Thirst for Conquest - ATK +15%
+>Hero of Justice Saves the Day - Great Saiyaman
+Z Fighters - ATK +15%
+Patrol - Ki +2
+Hero of Justice - ATK +25%
+Signature Pose - Ki +2
+>Galaxy's Most Evil - Boujack
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Big Bad Bosses - ATK & DEF +25% when HP is 80% or below
+Thirst for Conquest - ATK +15%
+Revival - Ki +2
+The Wall Standing Tall - Foils enemy's "True Power" and boosts ATK by 15%
+>Brutal Battlefield Diva - Zangya
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Battlefield Diva - Ki +2
+Brutal Beatdown - ATK +10%
+Loyalty - Ki +1
+>Dastardly Swordsman - Gokua
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Infighter - ATK +10%, attacked enemy's DEF -10%
+Loyalty - Ki +1
+>Vicious Power Fighter - Bido
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Tough as Nails - DEF +1500
+Loyalty - Ki +1
+>Merciless Supernatural Power - Bujin
+The Hera Clan - Ki +2
+Galactic Warriors - ATK +20%
+Telekinesis - Enemy DEF -10%
+Loyalty - Ki +1
+>Superior Suppressor - Turles
+Destroyer of the Universe - ATK +25%
+Saiyan Warrior Race - ATK +700
+Prepared for Battle - Ki +2
+Brutal Beatdown - ATK +10%
+>Ambitious Scheme - Paragus
+Hardened Grudge - Ki +1
+Saiyan Warrior Race - ATK +700
+Thirst for Conquest - ATK +15%
+Coward - Ki +1
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>The Pinnacle of Evil - Golden Frieza
+Prodigies - ATK +10%
+Universe's Most Malevolent - ATK +15%
+Revival - Ki +2
+Super-God Combat - ATK +15%
+Resurrection 'F' - ATK +700
+>Simple-Minded Devil - Cell Jr.
+Attack of the Clones - Ki +1
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+>Simple-Minded Devil - Cell Jr.
+Attack of the Clones - Ki +1
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+>Simple-Minded Devil - Cell Jr.
+Attack of the Clones - Ki +1
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+>Simple-Minded Devil - Cell Jr.
+Attack of the Clones - Ki +1
+Brutal Beatdown - ATK +10%
+The Innocents - ATK +10%
+>Earthborn Warrior - Saibaiman
+Infighter - ATK +10%, attacked enemy's DEF -10%
+New - ATK +200
+>Earthborn Warrior - Saibaiman
+Infighter - ATK +10%, attacked enemy's DEF -10%
+New - ATK +200
+>Earthborn Warrior - Saibaiman
+Infighter - ATK +10%, attacked enemy's DEF -10%
+New - ATK +200
+>Earthborn Warrior - Saibaiman
+Infighter - ATK +10%, attacked enemy's DEF -10%
+New - ATK +200
+>Lethal Underling - Frieza Soldier
+Frieza's Minion - ATK +300
+>Lethal Underling - Frieza Soldier
+Frieza's Minion - ATK +300
+>Lethal Underling - Frieza Soldier
+Frieza's Minion - ATK +300
+>Lethal Underling - Frieza Soldier
+Frieza's Minion - ATK +300
+>Infamous Army - Red Ribbon Army
+RR Army - ATK +300
+>Infamous Army - Red Ribbon Army
+RR Army - ATK +300
+>Infamous Army - Red Ribbon Army
+RR Army - ATK +300
+>Infamous Army - Red Ribbon Army
+RR Army - ATK +300
